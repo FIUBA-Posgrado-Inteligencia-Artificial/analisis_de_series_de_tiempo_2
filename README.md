@@ -7,4 +7,4 @@
 
 
 ### Tareas
-* Tarea 1 &nbsp; [![Código](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/analisis_de_series_de_tiempo_2/blob/main/Tareas/Tarea_1%2C_Feature_Engineering_y_Validacio%CC%81n_Temporal_con_GBM.ipynb) 
+* Tarea 1 &nbsp; [![Código](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/analisis_de_series_de_tiempo_2/blob/main/Tareas/Tarea_1%2C_Feature_Engineering_y_Validacio%CC%81n_Temporal_con_GBM.ipynb)]
