@@ -15,3 +15,4 @@
 ### Tareas
 * Tarea 1 &nbsp; [![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/analisis_de_series_de_tiempo_2/blob/main/Tareas/Tarea_1%2C_Feature_Engineering_y_Validacio%CC%81n_Temporal_con_GBM.ipynb)
 * Tarea 2 &nbsp; [![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/analisis_de_series_de_tiempo_2/blob/main/Tareas/Tarea%202%2C%20Global%20Forecasting%20Multivariado.ipynb)
+* Tarea 3 &nbsp; [![Código](https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/analisis_de_series_de_tiempo_2/blob/main/Tareas/Tarea_3%2C_Comparacio%CC%81n_de_Arquitecturas_de_Forecasting.ipynb)
